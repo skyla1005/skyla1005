@@ -18,4 +18,4 @@
 <br>
 
 ### 📮 Contact 📮  
-![gmail](https://img.shields.io/badge/dnfdjssl88@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=dnfdjssl88@naver.com)
+![gmail](https://img.shields.io/badge/dnfdjssl88@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
