@@ -1,16 +1,21 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=subillie's%20Github%20Profile&fontSize=50&fontColor=ffffff"
+</p>  
 
-<!--
-**skyla1005/skyla1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💪 Stat
+<p align="left">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=subillie&show_icons=true&theme=github_dark&count_private=true">
+</a>
+  <img height="150em" src="http://mazassumnida.wtf/api/generate_badge?boj=abyo">
+</p><br>
+
+
+
+# 📌 About Me
+[ 2025.07. - 2026.06. ] ![Samsung](https://img.shields.io/badge/SSAFY-1428A0?&style=for-the-badge&logo=samsung&logoColor=white)  
+<br>
+
+### 📮 Contact 📮  
+![gmail](https://img.shields.io/badge/dnfdjssl88@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
